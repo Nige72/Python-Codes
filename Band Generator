@@ -1,0 +1,12 @@
+##NS: writing a band name generator## 				   
+print("Welcome to Nigel's band name generator")			   
+name1 = input("Which city did you grow up in?\n")		   
+pet = input("What was the name of your first pet?\n")		   
+print("This is your band name"+" "+ name1,pet)			   
+								   
+Outcome: Welcome to Nigel's band name generator			   
+Which city did you grow up in?        				   
+birkenhead							   
+What was the name of your first pet?				   
+dog								   
+This is your band name birkenhead dog			
