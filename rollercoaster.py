@@ -16,9 +16,12 @@ if height >= 120:
  elif age <= 18:
      print("You are young adult rates of £7 ")
      bill = 7
- elif age > 19:
+ elif age >= 19 and age <= 44:
      print("Adult prices are £10 ")
      bill = 10
+ elif age >= 45 and age <= 65:
+     print("Happy mid life crisis")
+     
  photo = input("Would you like a photo? y/n: ")
  if photo == "y":
         bill += 3
