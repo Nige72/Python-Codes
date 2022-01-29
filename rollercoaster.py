@@ -1,4 +1,4 @@
-#NS: purchase a ticket if over 120cm #
+#NS: purchase a ticket if over 120cm update #
 #NS: ask age and show ticket price#
 #NS: ask for photo if yes add totals together#
 print("Welcome to the rollercoaster!!")
